@@ -11,6 +11,7 @@ Live site: https://courtmap.github.io/courtmap-brand-site/
 - `index.html`: the brand book (a single static page served with GitHub Pages)
 - `images/`: photography (AI-generated with Gemini) and app screens
 - `illustrations/`: system-message illustrations, light and dark
+- `logos/`: the wordmark and monogram SVGs in every colour version (neutral dark and light, brand, on brand)
 - `favicon.svg`, `og.jpg`: browser icon and link-preview image
 
 ## Notes
